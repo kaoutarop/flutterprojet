@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653323756100",
+    "project_id": "flutter-projet-hache",
+    "storage_bucket": "flutter-projet-hache.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653323756100:android:dff0426209db4f3bb31211",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyk-HB_AmFg1zMXt4fokUZdVcMuv14It0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
